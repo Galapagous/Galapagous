@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Fiverr clone**
 
-- 🌱 I’m currently learning **DSA, Machine learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
